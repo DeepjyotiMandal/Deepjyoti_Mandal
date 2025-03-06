@@ -1,5 +1,5 @@
 # Deepjyoti_Mandal
-something 
+dedikated towards innovative development
 <h1 align="center">Hi 👋, I'm Deepjyoti Mandal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
